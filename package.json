@@ -1,0 +1,11 @@
+{
+  "name": "job-normalization-api",
+  "version": "1.0.0",
+  "description": "API for scraping and normalizing job listing data.",
+  "main": "api/jobs.js",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "license": "ISC"
+}
